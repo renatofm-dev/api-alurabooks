@@ -1,0 +1,23 @@
+{
+  "name": "server-alurabooks",
+  "version": "1.0.0",
+  "description": "API do site da alura books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rmartins94/api-alurabooks.git"
+  },
+  "author": "Renato Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmartins94/api-alurabooks/issues"
+  },
+  "homepage": "https://github.com/rmartins94/api-alurabooks#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "gitignore": "^0.7.0"
+  }
+}
